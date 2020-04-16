@@ -1,6 +1,6 @@
 # Many insertion screenshoot
 ![](imgF/many%20insertion.PNG)
-# The document in the collection screenshoot
+# The first document in the collection screenshoot
 ![](imgF/findone.PNG)
 # All movies with a rating of 7
 ![](imgF/rating%20by%207.PNG)
